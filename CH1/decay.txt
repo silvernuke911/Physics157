@@ -1,0 +1,20 @@
+Intro talks about radioactive decay
+
+
+Experimental Methodology
+
+4 types of die - 4 side, 6 side, 8 side, 12 side
+Throw each sort of die 5 times each
+For each throw, remove the dies who hit the maximum number
+Do again and again until it hits 0
+Repeat 5 times for each dice
+
+Objectives
+
+Identify the analogous theoretical Half-life of the radioactive dice for each one
+Create a best fit model given the theory of radioactive dice
+Compare the experimental results and use statistics to determine whether the model is correct
+Identify an experimental half life
+
+
+suppose one throw equals t=1
