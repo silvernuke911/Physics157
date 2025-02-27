@@ -1,8 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-N = 3000
-p = 1/12
+N = 100
+p = 0.105
 t_max = 100
 t = np.arange(t_max)  # Use np.arange for proper indexing
 samples = np.ones(N)
@@ -20,9 +20,13 @@ for ti in range(1, t_max):  # Start from 1
     samplist[ti] = np.sum(samples)  
     
 print(samplist)
-print(diffs)
-plt.step(t, samplist)
-plt.xlabel("Time Step")
-plt.ylabel("Number of Active Samples")
-plt.title("Decay Process Simulation")
-plt.show()
+for i in range(68):
+    print(diffs[i])
+with open("results.txt", "w") as f:
+    for i in range(70):
+        f.write(str(diffs[i]) + "\n")  # Write each diffs[i] value on a new line
+# plt.step(t, samplist)
+# plt.xlabel("Time Step")
+# plt.ylabel("Number of Active Samples")
+# plt.title("Decay Process Simulation")
+# plt.show()
