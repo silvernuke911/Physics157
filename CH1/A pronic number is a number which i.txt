@@ -1,0 +1,14 @@
+A pronic number is a number which is the product of two consecutive integers. Return 1 if the number is pronic, otherwise return 0
+
+4 faces
+p_0 = 0.23740851026572435, p = 0.25, 1/p = 4.212148919517373
+Halflife of p = 0.2374 = 2.5574
+6 faces
+p_0 = 0.1624980822162011, p = 0.16666666666666666, 1/p = 6.153918780835308
+Halflife of p = 0.1625 = 3.9088
+10 faces
+p_0 = 0.10457593110498094, p = 0.1, 1/p = 9.562429800372776
+Halflife of p = 0.1046 = 6.2752
+12 faces
+p_0 = 0.07222926393005037, p = 0.08333333333333333, 1/p = 13.844803969876239
+Halflife of p = 0.0722 = 9.2456

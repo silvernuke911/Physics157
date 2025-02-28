@@ -1,3 +1,5 @@
+Modelling radioactive decay using physical stochastic processes
+
 Intro talks about radioactive decay
 
 
@@ -12,9 +14,8 @@ Repeat 5 times for each dice
 Objectives
 
 Identify the analogous theoretical Half-life of the radioactive dice for each one
-Create a model given the theory of radioactive dice
+Create a best fit model given the theory of radioactive dice
 Compare the experimental results and use statistics to determine whether the model is correct
-Get the best fit model 
 Identify an experimental half life and explain it away why so and so
 
 
