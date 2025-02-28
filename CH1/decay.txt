@@ -17,6 +17,6 @@ Identify the analogous theoretical Half-life of the radioactive dice for each on
 Create a best fit model given the theory of radioactive dice
 Compare the experimental results and use statistics to determine whether the model is correct
 Identify an experimental half life and explain it away why so and so
-
+# there is a source saying they are not analogous
 
 suppose one throw equals t=1, and every throw thereafter is t+1. 
