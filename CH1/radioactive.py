@@ -25,6 +25,8 @@ for i in range(68):
 with open("results.txt", "w") as f:
     for i in range(70):
         f.write(str(diffs[i]) + "\n")  # Write each diffs[i] value on a new line
+
+
 # plt.step(t, samplist)
 # plt.xlabel("Time Step")
 # plt.ylabel("Number of Active Samples")

@@ -1,0 +1,96 @@
+Silence is the greatest form of contempt 
+
+
+METHODOLOGY
+
+Consider the costs  -  
+	Moricoco feed - per kilo, 10 pesos 4 kilos per kilo 
+	Standard feed - 
+
+Create 6 batches of feed 
+
+//  0% Coconut 100% Moringa
+ 20% Coconut  80% Moringa
+ 40% Coconut  60% Moringa
+ 60% Coconut  40% Moringa
+ 80% Coconut  20% Moringa
+// 100% Coconut   0% Moringa
+
+2 batches of wet and dry 200 grams each 
+
+Get 3 types of standard feed 
+Test for the nutrient content of each 
+
+Compare the data with t-test and ANOVA
+
+
+Recommendations
+
+Effect of chicken growth with feeding live chicken with
+the experimental feed and standard feed  
+
+
+RESEARCH QUESTIONS
+
+General Questions
+	
+	In general, the researcher aims to answer the question:
+	Is it better for farmers to use coconut pulp and malunggay pellets instead of traditional poultry feed?
+
+Specific Questions
+
+	1. What are the specific nutritional content of Moricoco pellets.
+	2. What are the difference of costs between Moricoco pellets and standard chicken feed?
+	3. Is there a significant difference on the nutritional content of Moricoco pellets compared to commercial poultry feed?
+
+
+HYPOTHESIS
+
+N_0 : There is no significant difference between Moricoco pellets and commercial poultry feed.
+
+N_A : There is a significant difference between Moricoco pellets and commercial poultry feed.
+
+
+RESEARCH OBJECTIVES 
+	
+	The research aims to determine whether Moricoco pellets made from coconut pulp and malunggay can be an effective alternative for commercial poultry feed. Specifically, it aims to study the effectivity of Moricoco in terms of price, accessibility and ease of manufacture, and nutritional content in comparison with standard brands of commercial poultry feed. 
+
+Ano ron sa malunggaym, carbohydrates, minerals, vitamins,
+
+
+RESEARCH METHODS 
+
+Procure materials:
+	Malunggay Leaves
+	Coconut pulp
+	Cornstarch for aggregate
+	Two standard poultry feed 
+	Manual Pellet machine
+	Containers
+
+Create feed:
+	Mix the malunggay and coconut pulp in this ratio: 20/80, 40/60/ 60/40, 80/20
+	Add 60 grams of cornstarch as a pellet aggregate
+	Create the pellets using the machine
+
+Test nutrition of feed and standard poultry 
+	Go to Ateneo De Manila to test with nutrition content for both moricoco and standard brand
+
+Compare it with given outcomes
+	Use t-test and anova to compare and statistically answer the hypothesis
+
+EXPECTED OUTCOMES  
+
+	
+
+DATA ANALYSIS 
+
+
+
+RISK AND SAFETY
+
+
+
+BIBLIOGRAPHY
+
+	

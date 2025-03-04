@@ -1,0 +1,49 @@
+@article{Bist2024,
+  title = {Sustainable poultry farming practices: A critical review of current strategies and future prospects},
+  author = {Ramesh Bahadur Bist, Keshav Bist, Sandesh Poudel, Deepak Subedi ,Xiao Yang, Bidur Paneru, Sudhagar Mani, Dongyi Wang, Lilong Chai},
+  journal = {Poultry Science},
+  year = {2024},
+  volume = {103},
+  doi = {10.1016/j.psj.2024.104295},
+  url = {https://doi.org/10.1016/j.psj.2024.104295},
+}
+
+@article{Islam2021,
+  title = {Moringa oleifera is a Prominent Source of Nutrients with Potential Health Benefits},
+  author = {Zahidul Islam and S. M. Rashadul Islam and Faruk Hossen and Kazi Mahtab-ul-Islam and Md Rakibul Hasan and Rezaul Karim},
+  journal = {International Journal of Food Science},
+  year = {2021},
+  volume = {2021},
+  pages = {6627265},
+  doi = {10.1155/2021/6627265},
+  pmid = {34423026},
+  pmcid = {PMC8373516},
+  url = {https://doi.org/10.1155/2021/6627265}
+}
+
+@article{rusdiansyah2022coconut,
+  author    = {Rusdiansyah, R. and Hasanuddin, A. and Mulyati, M.},
+  title     = {Effect of coconut husk extract on broiler chicken performance, pH and microbial composition of digesta, and small intestine histomorphology},
+  journal   = {Journal of the Indonesian Tropical Animal Agriculture},
+  year      = {2022},
+  volume    = {47},
+  number    = {2},
+  pages     = {119-127},
+  doi       = {10.14710/jitaa.47.2.119-127},
+  url       = {https://doi.org/10.14710/jitaa.47.2.119-127},
+  license   = {CC BY-SA 4.0}
+}
+
+@article{obianwuna2024phytobiotics,
+  author    = {Obianwuna, Uchechukwu Edna and Chang, Xinyu and Oleforuh-Okoleh, Vivian U. and Onu, Patience N. and Zhang, Haijun and Qiu, Kai and Wu, Shugeng},
+  title     = {Phytobiotics in poultry: revolutionizing broiler chicken nutrition with plant-derived gut health enhancers},
+  journal   = {Journal of Animal Science and Biotechnology},
+  year      = {2024},
+  volume    = {15},
+  articleno = {169},
+  doi       = {10.1186/s40104-024-00895-6},
+  url       = {https://doi.org/10.1186/s40104-024-00895-6},
+  publisher = {Springer},
+  date      = {2024-12-09}
+}
+
