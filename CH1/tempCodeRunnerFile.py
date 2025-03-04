@@ -1,4 +1,3 @@
-  grid[x + 1, y + 1] if x + 1 < grid.shape[0] else 0,
-        grid[x - 1, y + 1] if x - 1 >= 0 else 0,
-        grid[x + 1, y - 1] if y + 1 < grid.shape[1] else 0,
-        grid[x - 1, y - 1] if y - 1 >= 0 else 0
+        # if dif < 10e-6: 
+        #     x_n = x_n-1
+        #     break
