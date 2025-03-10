@@ -27,10 +27,12 @@ So for today, the tasks are
 -			Recheck the conditions of the telescopes 
 -			Budget Proposal - Funds for lasers
 	< Urgent TOMORROW >
-		ObsIn Meeting 1 Minutes
-		Telescope Assembly Guide
-		Stargazing Basics Guide
-		ObsIn meeting 2 set
+-		ObsIn Meeting 1 Minutes
+-		Telescope Assembly Guide
+-		Stargazing Basics Guide
+-		ObsIn meeting 2 set
+		Telassem Pub
+		More test functions for Tambay Tracker
 		T-testing
 		Anova
 		Introduction
