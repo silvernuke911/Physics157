@@ -39,6 +39,7 @@ So for today, the tasks are
 		T-testing
 		Anova
 		CV
+		Remember to add qstart to pc
 	< KAS 1 Presentation >
 		Tonight
 	< Pathways >
