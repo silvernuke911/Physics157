@@ -26,18 +26,21 @@ So for today, the tasks are
 -				New version of handouts 
 -			Recheck the conditions of the telescopes 
 -			Budget Proposal - Funds for lasers
-	< Urgent TOMORROW >
+-	< Urgent TOMORROW >
 -		ObsIn Meeting 1 Minutes
 -		Telescope Assembly Guide
 -		Stargazing Basics Guide
 -		ObsIn meeting 2 set
-		Telassem Pub
+-		Telassem Pub
+	< Tonight>
+		RnD 
 		More test functions for Tambay Tracker
+		KAS1 Presentation
 		T-testing
 		Anova
-		Introduction
-		Metholodogy
-		RnD 
+		CV
+	< KAS 1 Presentation >
+		Tonight
 	< Pathways >
 -		KKM Survey
 		Other stuff, organize later
@@ -45,10 +48,10 @@ So for today, the tasks are
 -		Reaff Form
 -		ObsIn Budget Proposal
 -		Telescope Assembly Poster
-		ObsIn Meeting 1 Minutes
-		Telescope Assembly Guide
-		Stargazing Basics Guide
-		ObsIn meeting 2 set
+-		ObsIn Meeting 1 Minutes
+-		Telescope Assembly Guide
+-		Stargazing Basics Guide
+-		ObsIn meeting 2 set
 	< Tambay Tracker >
 -		OS Implementation
 -		Refactor the old one 
@@ -103,7 +106,11 @@ So for today, the tasks are
 		Execute Maneuver
 	< Personnal Coding >
 		The box language I made when I was 18 and stupid
-
+		pygame gravity sim
+	< Fraternity Writings >
+		May 1 Writings 
+		Assigned Writings
+	< Complete your Personal Research Papers damn >
 
 MISCELLANEOUS
 	Physics  141 Exam
