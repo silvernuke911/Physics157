@@ -32,20 +32,7 @@ So for today, the tasks are
 -		Stargazing Basics Guide
 -		ObsIn meeting 2 set
 -		Telassem Pub
-	< Tonight>
-		RnD 
-		More test functions for Tambay Tracker
-		KAS1 Presentation
-		T-testing
-		Anova
-		CV
-		Remember to add qstart to pc
-	< KAS 1 Presentation >
-		Tonight
-	< Pathways >
--		KKM Survey
-		Other stuff, organize later
-	< Astrosoc Duties>
+- < Astrosoc Duties>
 -		Reaff Form
 -		ObsIn Budget Proposal
 -		Telescope Assembly Poster
@@ -53,6 +40,30 @@ So for today, the tasks are
 -		Telescope Assembly Guide
 -		Stargazing Basics Guide
 -		ObsIn meeting 2 set
+-	< Physics 191 Paper>
+-		Graphs
+-		Introduction
+-		Metholodogy
+-		RnD 
+-		Conclusion 
+-		Abstract
+-		RnD 
+-		Paper
+-		P157 Paper
+-		More test functions for Tambay Tracker
+	< Tonight>
+		KAS1 Presentation
+-		LE Joshua Dad Wake
+-		ObsIn Telassem Lab 1
+		T-testing
+		Anova
+		CV - We now have template
+		Remember to add qstart to pc
+	< KAS 1 Presentation >
+		Tonight
+	< Pathways >
+-		KKM Survey
+		Other stuff, organize later
 	< Tambay Tracker >
 -		OS Implementation
 -		Refactor the old one 
@@ -62,13 +73,6 @@ So for today, the tasks are
 		T-testing
 		Anova
 		Significance testing
-	< Physics 191 Paper>
--		Graphs
-		Introduction
-		Metholodogy
-		RnD 
-		Conclusion 
-		Abstract
 	< Curriculum Vitae >
 		Make it 
 		Apply to:
@@ -83,7 +87,7 @@ So for today, the tasks are
 	< File Management >
 		Clean up the files and upload them somewhere
 	< Exams >
-		March 7 - KAS
+-		March 7 - KAS
 		March 18 - P157
 	< Birthday Portraits >
 		JL
