@@ -51,23 +51,32 @@ So for today, the tasks are
 -		Paper
 -		P157 Paper
 -		More test functions for Tambay Tracker
-	< Tonight>
-		KAS1 Presentation
+-	< Tonight>
+-		KAS1 Presentation
 -		LE Joshua Dad Wake
 -		ObsIn Telassem Lab 1
+-	< KAS 1 Presentation >
+-		Tonight
+-	< Tambay Tracker >
+-		OS Implementation
+-		Refactor the old one 
+-		Data Collections
+-	< Exams >
+-		March 7 - KAS
+-	Physics 157 Submission Bin
+	< Today >
+		Excuse Letter
+		Physics 191 Problem Set
 		T-testing
 		Anova
 		CV - We now have template
 		Remember to add qstart to pc
-	< KAS 1 Presentation >
-		Tonight
+
 	< Pathways >
 -		KKM Survey
 		Other stuff, organize later
 	< Tambay Tracker >
--		OS Implementation
--		Refactor the old one 
-		Data Collections
+
 		JL Dev Requests
 	< Niki Data >
 		T-testing
@@ -87,7 +96,6 @@ So for today, the tasks are
 	< File Management >
 		Clean up the files and upload them somewhere
 	< Exams >
--		March 7 - KAS
 		March 18 - P157
 	< Birthday Portraits >
 		JL
