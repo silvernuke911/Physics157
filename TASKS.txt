@@ -65,15 +65,15 @@ So for today, the tasks are
 -		March 7 - KAS
 -	Physics 157 Submission Bin
 	< Today >
-		Excuse Letter
+		Excuse Letter - TMR MORNING
 		Physics 191 Problem Set
 		T-testing
 		Anova
 		CV - We now have template
 		Remember to add qstart to pc
-
 	< Pathways >
 -		KKM Survey
+		March 31 - Pathways Initial Participant Status
 		Other stuff, organize later
 	< Tambay Tracker >
 
@@ -125,6 +125,30 @@ So for today, the tasks are
 		Assigned Writings
 	< Complete your Personal Research Papers damn >
 
+YT LINKS
+	https://www.youtube.com/watch?v=wPq-okUgiUU
+	https://www.youtube.com/shorts/rc84ZmrSEzY
+	https://www.youtube.com/watch?v=RiJFo-kaJBQ
+	https://www.youtube.com/watch?v=JWKadu0ks20
+	https://www.youtube.com/watch?v=Hc10febKlX8
+	https://www.youtube.com/watch?v=XiFkyR35v2Y
+	https://www.youtube.com/watch?v=ISZTTEtHcTg - //
+	https://www.youtube.com/watch?v=hXwDlwLPU6s - //
+	https://www.youtube.com/watch?v=MK_SyGn84C4 - // 
+	https://www.youtube.com/@TheSpaceRaceYT/videos
+	https://www.youtube.com/watch?v=DxbVeHpQU7I
+	https://www.youtube.com/watch?v=FwmQbbaMSmw
+	https://www.youtube.com/watch?v=DEzlksLZTp8 
+	https://www.youtube.com/watch?v=tWzZhZU3sOI
+	https://www.youtube.com/watch?v=XZeUOytuG84
+	https://www.youtube.com/watch?v=3pfsSh_fTAc
+	https://www.youtube.com/watch?v=5clR_JZdZ-k
+	https://www.youtube.com/watch?v=qO0WvudbO04 - //
+	https://www.youtube.com/watch?v=9wSQ9Zk_9gQ
+	https://www.youtube.com/watch?v=kr_Ouytl9Ws
+	https://www.youtube.com/@Indexium/videos
+	https://www.youtube.com/watch?v=orVonJwofD8
+
 MISCELLANEOUS
 	Physics  141 Exam
 	Calendar Organization
@@ -168,4 +192,4 @@ I remember when I first held a computer, years ago. 2013, I watched Anaconda vid
 		Simple Control
 
 			
-		
+git add .;git commit -m "commit0";git push
