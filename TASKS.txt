@@ -186,10 +186,42 @@ MISCELLANEOUS
 	
 I remember when I first held a computer, years ago. 2013, I watched Anaconda videos on youtube. 
 		
+WIFI PASSWORD
 	d6SN4Asy
 
 	Code :
 		Simple Control
 
+MOVIES
+	Come Thru
+	The Patriot
+	Glory
+	Ironheart
+	Braveheart
+
+OBSIN EXEC MEET
+	Print the tarp
+	Scoresheet and Schedsheet
+	Plantsa ng date for monthly sidewalk
+		
+	Election Nominations 
+		March 28 - April 4
+	April 18 - GPOA SPOA
+	19 -posting
+	20 - 25 
+		Campaign
+	26-28 - Voting
+	29 Announcement
+
+Hi @Ace, parelay sa AppRel na these applicants must schedule ng special telassem in the next two weeks, we will close by Mar 27
+	John Mathew A. Cabural
+	Julianne Francesca Berse
+	Kristina Paula Saludo
+	Laura Fe Ola-a
+	Zyanne Margarette O. Alzola 
+		
+		A12
+		SR71
+		YF12
 			
 git add .;git commit -m "commit0";git push
