@@ -64,13 +64,15 @@ So for today, the tasks are
 -	< Exams >
 -		March 7 - KAS
 -	Physics 157 Submission Bin
+-	Remember to add qstart to pc
 	< Today >
 		Excuse Letter - TMR MORNING
+-			Soza
+			Galapon
 		Physics 191 Problem Set
 		T-testing
 		Anova
 		CV - We now have template
-		Remember to add qstart to pc
 	< Pathways >
 -		KKM Survey
 		March 31 - Pathways Initial Participant Status
@@ -102,6 +104,7 @@ So for today, the tasks are
 		Tsen 
 		Akio
 		Kyle 
+		Shane
 	< Incompletes >
 		LMAO.
 	< DOST pass tcg >
@@ -120,6 +123,7 @@ So for today, the tasks are
 	< Personnal Coding >
 		The box language I made when I was 18 and stupid
 		pygame gravity sim
+		hexapawn
 	< Fraternity Writings >
 		May 1 Writings 
 		Assigned Writings
@@ -148,6 +152,7 @@ YT LINKS
 	https://www.youtube.com/watch?v=kr_Ouytl9Ws
 	https://www.youtube.com/@Indexium/videos
 	https://www.youtube.com/watch?v=orVonJwofD8
+	https://www.youtube.com/watch?v=pGEWPY3nqHw
 
 MISCELLANEOUS
 	Physics  141 Exam
@@ -224,4 +229,4 @@ Hi @Ace, parelay sa AppRel na these applicants must schedule ng special telassem
 		SR71
 		YF12
 			
-git add .;git commit -m "commit0";git push
+git add .;git commit -m "commit1";git push
