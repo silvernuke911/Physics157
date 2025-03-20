@@ -65,20 +65,28 @@ So for today, the tasks are
 -		March 7 - KAS
 -	Physics 157 Submission Bin
 -	Remember to add qstart to pc
-	< Today >
-		Excuse Letter - TMR MORNING
+-		March 18 - P157
+-		Excuse Letter - TMR MORNING
 -			Soza
-			Galapon
+-			Galapon
+-		Physics 157 Exam
+-		Physics 157 Paper
+-		KAs1 Paper
+	< Today >
+		Physics 191.1 Paper
 		Physics 191 Problem Set
+		CV - We now have template
 		T-testing
 		Anova
-		CV - We now have template
+		KSP Todos
+		Excuse Letter 191, 151, 157
+		JL Dev Requests
 	< Pathways >
 -		KKM Survey
 		March 31 - Pathways Initial Participant Status
+		MArch 31 - Mentees Training
 		Other stuff, organize later
 	< Tambay Tracker >
-
 		JL Dev Requests
 	< Niki Data >
 		T-testing
@@ -98,7 +106,7 @@ So for today, the tasks are
 	< File Management >
 		Clean up the files and upload them somewhere
 	< Exams >
-		March 18 - P157
+
 	< Birthday Portraits >
 		JL
 		Tsen 
@@ -188,7 +196,7 @@ MISCELLANEOUS
 
 	
 
-	
+"Good things come to those who wait, not those who wait too late"
 I remember when I first held a computer, years ago. 2013, I watched Anaconda videos on youtube. 
 		
 WIFI PASSWORD
@@ -230,3 +238,14 @@ Hi @Ace, parelay sa AppRel na these applicants must schedule ng special telassem
 		YF12
 			
 git add .;git commit -m "commit1";git push
+
+how to clone a Repo 
+
+git init
+cd to the desired directory
+	git clone <repo url>, copies the repo inside
+
+this is already the desired repo
+	git remote add origin <repo url>
+	git fetch
+	git checkout -t origin/main
