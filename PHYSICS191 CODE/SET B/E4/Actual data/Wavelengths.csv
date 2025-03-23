@@ -12,9 +12,9 @@ Carbon Dioxide,100,-1,-5,4,32
 Carbon Dioxide,100,-1,-5,4,11
 Carbon Dioxide,100,-1,-5,3,50
 Carbon Dioxide,100,-1,-5,3,31
-Neon,100,-1,-5,4,32
-Neon,100,-1,-5,4,27
-Neon,100,-1,-5,4,10
+Neon,100,-1,-5,4,45
+Neon,100,-1,-5,4,35
+Neon,100,-1,-5,4,26
 Nitrogen,100,-1,-5,4,40
 Nitrogen,100,-1,-5,4,28
 Nitrogen,100,-1,-5,4,46
@@ -29,9 +29,9 @@ Helium,100,-1,-5,3,45
 Helium,100,-1,-5,3,32
 Helium,100,-1,-5,3,28
 Mercury,100,-1,-5,4,22
-Mercury,100,-1,-5,4,5
+Mercury,100,-1,-5,4,10
 Mercury,100,-1,-5,3,31
-Hydrogen,300,-1,-5,12,10
+Hydrogen,300,-1,-5,12,27
 Hydrogen,300,-1,-5,9,15
 Hydrogen,300,-1,-5,7,57
 Argon,300,-1,-5,11,15
@@ -45,20 +45,21 @@ Carbon Dioxide,300,-1,-5,10,30
 Carbon Dioxide,300,-1,-5,9,51
 Carbon Dioxide,300,-1,-5,9,11
 Carbon Dioxide,300,-1,-5,8,42
-Neon,300,-1,-5,12,1
-Neon,300,-1,-5,11,26
-Neon,300,-1,-5,11,0
+Neon,300,-0,-55,12,1
+Neon,300,-0,-55,11,26
+Neon,300,-0,-55,11,0
 Nitrogen,300,-1,-5,12,15
 Nitrogen,300,-1,-5,11,44
+Nitrogen,300,-1,-5,11,09
 Nitrogen,300,-1,-5,9,28
 Nitrogen,300,-1,-5,8,31
-Helium,300,-1,-5,12,28
-Helium,300,-1,-5,10,59
-Helium,300,-1,-5,9,28
-Helium,300,-1,-5,8,31
-Mercury,300,-1,-5,10,4
-Mercury,300,-1,-5,8,29
+Helium,300,-1,0,12,28
+Helium,300,-1,0,10,59
+Helium,300,-1,0,9,28
+Helium,300,-1,0,8,31
 Mercury,300,-1,-5,10,57
+Mercury,300,-1,-5,10,21
+Mercury,300,-1,-5,8,29
 Hydrogen,600,-1,-5,23,5
 Hydrogen,600,-1,-5,16,41
-Hydrogen,600,-1,-5,14,42
+Hydrogen,600,-0,-45,14,42
