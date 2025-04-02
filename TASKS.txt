@@ -77,7 +77,7 @@ So for today, the tasks are
 -		Execlus - Sidewalk Calendar
 	< Today >
 -		Physics 191.1 Paper
-			Write RND
+-			Write RND
 		Physics 191 Problem Set
 		CV - We now have template
 		T-testing
@@ -85,7 +85,11 @@ So for today, the tasks are
 		KSP Todos
 		Excuse Letter 191, 151, 157
 		JL Dev Requests
-		Physics 141 Problem Set 3: (due 28 March 2025)
+-		Physics 141 Problem Set 3: (due 28 March 2025)
+	< Astrosoc >
+		Lab3
+		Internship Onboarding
+		Accept nomination.
 	< Pathways >
 -		KKM Survey
 		March 31 - Pathways Initial Participant Status
@@ -118,6 +122,7 @@ So for today, the tasks are
 		Akio
 		Kyle 
 		Shane
+		Earl
 	< Incompletes >
 		LMAO.
 	< DOST pass tcg >
