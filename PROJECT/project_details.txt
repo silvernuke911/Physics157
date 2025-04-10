@@ -1,0 +1,73 @@
+[ Physics 157 Final Project ]
+============================
+Assessing the Positional Divergence of Asteroid 99942 Apophis from J2000-Based Orbital Simulations Using Astronomical Observation.
+============================
+
+[ Introduction / Motivation ]
+
+Asteroid 99942 Apophis is a near-Earth asteroid discovered in 2004. It is projected to have a close encounter with Earth on 2029, and another close encounter in 2036. It is classified as a potentially hazardous object, since it passes relatively close to Earth on every orbital period and may have a possibility to impact Earth on the far future[1]. As such, since it is an object of interest, the asteroid's position in the last 20 years are well documented [2]. In fact, it is determined that a possibility of an impact in the near future is negligible [3]. Orbital trajectory simulations are used to predict the positions and trajectory of an orbital body over time using classical differential equations and numerical integration, and, ideally, in a 2-body problem, this trajectory is invariant [3], since the forces acting on two bodies are well known. However, orbital perturbations from the presence of other orbiting significant masses (such as planets) cause deviations from the projected trajectories over time [4] and thus projected trajectories are not always accurate in predicting the actual trajectory that the asteroid, or any orbiting body, may take. The aim of this project is to assess the deviation of the actual position of Asteroid 99942 Apophis from the simulated positions over time using historical astronomical data and the J2000 Epoch initial conditions as an initial value for the simulations. 
+
+
+[ Approach ]
+
+The project will utilize positional data of Asteroid Apophis from astronomical observations (ranging from 2004-present). Additionally, it will use the projected positional data of the asteroid during the J2000 epoch as an initial condition. Orbital simulations will then be made using classical Newtonian Gravitational forces and RK4 numerical integration to plot the projected orbit of the Asteroid with the following N-body conditions in order to assess perturbations:
+
+Sun-only - i.e., only the sun and the asteroid is present on the simulations
+Sun-Jupiter - Jupiter, sun, and the asteroid are present in the simulation
+Sun-Planets - the Sun and all the planets are present on the simulation.
+
+The initial conditions from 2005, 2010, 2015, and 2020 will also be simulated. These will be run for 100 years of simulation time each. 
+
+[ Planned Analysis of Results ]
+
+A lot of orbital mechanics jargon needs to be explained, but essentially:
+
+The following will be compared
+xyz positional deviations as a function of time
+    In this case, the x axis is the first point of Aries, the z axis is the axis perpendiculat to the ecliptic, and the y axis is the cross product of the two 
+Delta_R(theta)
+    Deviation of radius as a function of true anomaly
+Delta_Theta(t)
+    Deviation of the true anomaly as a function of time 
+
+Rate of Divergence 
+    Derivatives of some of those.
+
+We set a threshold where the asteroid has diverged as 1 degree of arc in true anomaly position.
+
+[ Key Takeaways ] 
+
+How the true position diverges from simulation over time 
+    Use Orbital motion gifs, and plots 
+How long this divergence takes 
+How accurate can we predict the motions of asteroids 
+
+// Potential Data Sources
+https://science.nasa.gov/solar-system/asteroids/apophis/
+
+// NOTES
+
+
+12-15 minute presentation + 1 executive summary/notes
+
+motivation, approach, assessment of results, takeaway pt.
+
+Assessing the positional divergence of Asteroid Apophis using J2000-based orbital simulations from astronomical observations.
+
+
+Assess multiple starting points. 
+	2000, 2005, 2010, 2015, 2020.
+Assessing N-body problems and perturbations
+	Sun only
+	Sun and Jupiter
+	All planets
+Assessment
+	xyz positions
+	orbital variables
+	true anomalies
+
+Sources:
+[1]
+[2]
+[3]
+[4]
