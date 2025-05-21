@@ -1,6 +1,8 @@
 import numpy as np
+import time
+from modules import progress
 
-def kinematic_rk4(t, f, r0, v0):
+def kinematic_rk4(t, f, r0, v0, progressbar = False):
     """
     Simulates the motion of an object using the 4th-order Runge-Kutta (RK4) method
     for systems described by position, velocity, and a time-dependent acceleration function.
@@ -26,6 +28,8 @@ def kinematic_rk4(t, f, r0, v0):
     a : ndarray
         Array of accelerations at each time step. Shape: (len(t), len(v0)).
     """
+    if progressbar:
+        time_start = time.time()
     dt = t[1] - t[0]  # Assuming uniform time steps
     half_dt = dt / 2
     dim = len(r0)
@@ -56,10 +60,12 @@ def kinematic_rk4(t, f, r0, v0):
         v[i + 1] = v_i + (k1_v + 2 * k2_v + 2 * k3_v + k4_v) * dt / 6
         r[i + 1] = r_i + (k1_r + 2 * k2_r + 2 * k3_r + k4_r) * dt / 6
         a[i + 1] = f(t[i + 1], r[i + 1], v[i + 1])
+        if progressbar:
+            progress.progress_bar(i,len(t)-1,time_start)
 
     return r, v, a
 
-def kinematic_euler(t, f, r0, v0):
+def kinematic_euler(t, f, r0, v0, progressbar = False):
     """
     Simulates the motion of an object using the Forward Euler method
     for systems described by position, velocity, and a time-dependent acceleration function.
@@ -85,6 +91,8 @@ def kinematic_euler(t, f, r0, v0):
     a : ndarray
         Array of accelerations at each time step. Shape: (len(t), len(v0)).
     """
+    if progressbar:
+        time_start = time.time()
     dt = t[1] - t[0]
     dim = len(r0)
 
@@ -101,5 +109,6 @@ def kinematic_euler(t, f, r0, v0):
         v[i + 1] = v[i] + a[i] * dt
         r[i + 1] = r[i] + v[i] * dt
         a[i + 1] = f(t[i + 1], r[i + 1], v[i + 1])
-
+        if progressbar:
+            progress.progress_bar(i,len(t)-1,time_start)
     return r, v, a
