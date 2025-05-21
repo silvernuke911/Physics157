@@ -76,11 +76,11 @@ So for today, the tasks are
 -		ObsIn meeting 2 minutes
 -		Execlus - Sidewalk Calendar
 	< Exam >
-		Monday Physics 151
+-		Monday Physics 151
 	< Today >
 -		Physics 191.1 Paper
 -			Write RND
-		Physics 191 Problem Set
+-		Physics 191 Problem Set
 		CV - We now have template
 		T-testing
 		Anova
@@ -94,8 +94,8 @@ So for today, the tasks are
 -		Accept nomination.
 	< Pathways >
 -		KKM Survey
-		March 31 - Pathways Initial Participant Status
-		MArch 31 - Mentees Training
+-		March 31 - Pathways Initial Participant Status
+-		MArch 31 - Mentees Training
 		Other stuff, organize later
 	< Tambay Tracker >
 		JL Dev Requests
@@ -147,7 +147,7 @@ So for today, the tasks are
 		pygame gravity sim
 		hexapawn
 	< Fraternity Writings >
-		May 1 Writings 
+-		May 1 Writings 
 		Assigned Writings
 	< Complete your Personal Research Papers damn >
 
@@ -263,3 +263,41 @@ this is already the desired repo
 	git remote add origin <repo url>
 	git fetch
 	git checkout -t origin/main
+
+===============================================================
+===============================================================
+===============================================================
+- SET Answering
+- 191 Peer Evals
+
+Physics 157 Project
+	- Simulate the sun
+	- Simulate a fixed path
+	Simulate a particle going through that sun through RK4
+	Get the deviations
+	Simulate an Nbody problem
+	Simulate a planet through an Nbody problem
+	Get the Apophis Data
+	Compare and contrast differences
+	Gif the differences
+	Make a 1 page summary paper in Latex
+	Make 4-5 slides
+Curriculum Vitae
+TCG Obtaining
+OBAS Script
+OBAS Rehearse
+Pathways Pre-test
+Pathways Meeting
+- Shane Talks - 9:15
+SB Earl Talks - 9:30
+SB Tsen Talks - 10:00
+House Meeting - 9:30
+ExecMeet
+DOST Submit
+Incompletes
+Applications
+	Gravity
+	Theory
+151 Examinations
+Want and need, want and need
+No one will come to save you
