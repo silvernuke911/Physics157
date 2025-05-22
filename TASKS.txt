@@ -273,14 +273,18 @@ this is already the desired repo
 Physics 157 Project
 	- Simulate the sun
 	- Simulate a fixed path
-	Simulate a particle going through that sun through RK4
+	- Simulate a particle going through that sun through RK4
 	Get the deviations
-	Simulate an Nbody problem
-	Simulate a planet through an Nbody problem
-	Get the Apophis Data
+	- Simulate an Nbody problem
+	- Simulate a planet through an Nbody problem
+	- Get the Apophis Data
+	Simulate just apophis and sun (2body problem)
+	Get the deviations (GIF this)
+	Simulate Apohpis, Earth, Venus, Jupiter interactions
+	Get the deviations (GIF this as well)
 	Compare and contrast differences
-	Gif the differences
-	Make a 1 page summary paper in Latex
+
+	- Make a 1 page summary paper in Latex
 	Make 4-5 slides
 Curriculum Vitae
 TCG Obtaining

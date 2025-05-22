@@ -7,8 +7,6 @@ sys.path.append(str(Path(__file__).resolve().parents[1]))
 from modules import constants
 from modules import integrators 
 from modules import orbit_calculation 
-from modules import progress 
-from modules import titles 
 from modules import gravity 
 from modules import science_plot
 from modules import plotter
@@ -26,7 +24,7 @@ m = constants.bodies["Sun"]["mass_solar"]
 year = 365.25 
 
 dt = 0.5
-t = np.arange(0,2*year,dt)
+t = np.arange(0,20*year,dt)
 
 r_i, v_i = orbit_calculation.body_state_vectors("Apophis")
 print(r_i,v_i)

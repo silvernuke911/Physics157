@@ -26,3 +26,39 @@ def grav_acc(t, r, v, m, G):
     if r_mag_sq == 0:
         return np.zeros_like(r)
     return -mu * r / (r_mag_sq * np.sqrt(r_mag_sq))
+
+def grav_acc_nbody(t, R, V, masses, G):
+    """
+    Compute gravitational accelerations on each body due to every other body.
+
+    Parameters
+    ----------
+    t : float
+        Time (unused, kept for API consistency)
+    R : ndarray
+        Positions of shape (N, D)
+    V : ndarray
+        Velocities of shape (N, D) (unused)
+    masses : ndarray
+        Array of masses of shape (N,)
+    G : float
+        Gravitational constant
+
+    Returns
+    -------
+    A : ndarray
+        Accelerations of shape (N, D)
+    """
+    N, D = R.shape
+    A = np.zeros((N, D))
+    
+    for i in range(N):
+        for j in range(N):
+            if i == j:
+                continue
+            r_ij = R[j] - R[i]
+            dist_sq = np.dot(r_ij, r_ij)
+            if dist_sq != 0:
+                A[i] += G * masses[j] * r_ij / (dist_sq * np.sqrt(dist_sq))
+    
+    return A
