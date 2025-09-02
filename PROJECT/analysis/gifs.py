@@ -30,6 +30,7 @@ r_nx, r_ny, r_nz = df_nbody['x'],df_nbody['y'],df_nbody['z']
 r_ex, r_ey, r_ez = df_nbody['x_earth'],df_nbody['y_earth'],df_nbody['z_earth']
 
 t = df_hrzon["t"]
+t = t[:2000]
 year = 365.25
 
 def animated_plot_orbit():
@@ -40,7 +41,7 @@ def animated_plot_orbit():
 
     start_time = time.time()
     max_time = np.max(t)
-    filename = "gravsim5.gif"
+    filename = "gravsim6.gif"
     overwrite, filename = titles.check_and_prompt_overwrite(filename)
     if not overwrite:
         return None
@@ -89,7 +90,7 @@ def animated_plot_orbit():
         axis._axinfo['grid']['linewidth'] = 0.25
 
     with writer.saving(fig, filename, 200):
-        for i in range(0, len(t), 30):
+        for i in range(0, len(t), 10):
             # Update dynamic scatter points
             asteroid_scatter._offsets3d = ([r_x[i]], [r_y[i]], [r_z[i]])
             sim_scatter._offsets3d = ([r_nx[i]], [r_ny[i]], [r_nz[i]])

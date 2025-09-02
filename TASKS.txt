@@ -278,9 +278,9 @@ Physics 157 Project
 	- Simulate an Nbody problem
 	- Simulate a planet through an Nbody problem
 	- Get the Apophis Data
-	Simulate just apophis and sun (2body problem)
+	- Simulate just apophis and sun (2body problem)
 	Get the deviations (GIF this)
-	Simulate Apohpis, Earth, Venus, Jupiter interactions
+	- Simulate Apohpis, Earth, Venus, Jupiter interactions
 	Get the deviations (GIF this as well)
 	Compare and contrast differences
 
